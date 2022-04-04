@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-config.js",
+      "appliesTo": "config/config.js",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-config",
+      "appliesTo": "config/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-config",
+      "appliesTo": "config/config.js",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-config",
+      "appliesTo": "config/",
+      "type": "launch"
+    }
+  ]
+}
